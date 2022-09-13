@@ -22,4 +22,5 @@ while (i < 98)
 	}
 	putchar('\n');
 	return (0);
+}	
 
