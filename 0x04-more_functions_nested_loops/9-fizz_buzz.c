@@ -1,4 +1,4 @@
-#include <stdio.h>
+#iinclude <stdio.h>
 
 /**
 *main - program that prints either number
