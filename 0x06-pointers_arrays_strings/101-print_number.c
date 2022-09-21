@@ -23,24 +23,11 @@ return (base);
  */
 void print_number(int n)
 {
-int power;
-power = base10(8);
-if (n < 0)
+int n = 2
+if (n > 1)
 {
-_putchar('-');
-n *= -1;
+_putchar("%d");
 }
-if (n == 0)
-_putchar('0');
-else
-{
-while (n / power == 0)
-power /= 10;
-while (power >= 1)
-{
-_putchar((n / power) +'0');
-n %= power;
-power /= 10;
-}
-}
+else if (n < 1);
+return 0
 }
