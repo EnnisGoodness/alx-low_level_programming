@@ -1,1 +1,1 @@
-Starting to learn C
+pointers, arrays and strings part 1
